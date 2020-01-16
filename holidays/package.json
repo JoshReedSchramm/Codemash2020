@@ -1,0 +1,28 @@
+{
+  "name": "@joshreedschramm/holidays",
+  "version": "0.0.1",
+  "description": "My awesome holiday list!",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html -d ./.live",
+    "generate": "parcel build index.html -d ./output"
+  },
+  "author": "Josh Schramm",
+  "license": "ISC",
+  "dependencies": {
+    "@joshreedschramm/jrs-codemash-lib": "0.0.4",
+    "date-holidays": "^1.4.12",
+    "moment": "^2.24.0",
+    "parcel": "^1.12.4",
+    "styled-components": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-object-assign": "^7.7.4",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-plugin-preval": "^4.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
