@@ -15,7 +15,7 @@
     "@joshreedschramm/jrs-codemash-lib": "0.0.1",
     "@rskaggs/library-xyz": "^1.0.0",
     "isomorphic-unfetch": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "next": "^9.1.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
