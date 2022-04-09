@@ -12,7 +12,7 @@
   "dependencies": {
     "@joshreedschramm/jrs-codemash-lib": "0.0.4",
     "date-holidays": "^1.4.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "parcel": "^1.12.4",
     "styled-components": "^4.4.1"
   },
